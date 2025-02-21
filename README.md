@@ -1,1 +1,6 @@
-# Hello-World
+- 👋 Hi, I’m @DakotaHeimbaugh
+- 👀 I’m interested in becoming the best coder I can possibly be
+- 🌱 I’m currently learning the basics of coding and python
+- 💞️ I’m looking to collaborate on multiple coding project
+- 📫 How to reach me dakotaheimbaugh@gmail.com
+- ⚡ Fun fact: I like to play golf
